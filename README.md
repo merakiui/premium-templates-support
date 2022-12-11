@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="header.png" alt="screenshot">
+    <img src="./header.png" alt="screenshot">
 
 
 ## Meraki UI Premium Templates Support
